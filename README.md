@@ -10,7 +10,7 @@ The hidden layers use the [**tanh**](https://ml-cheatsheet.readthedocs.io/en/lat
 
 # Usage
 
-For detailed usage guide, refer [Example.ipynb](https://github.com/)
+For detailed usage guide, refer [Example.ipynb](https://github.com/thekillingspree/ShallowNet/blob/master/Example.ipynb)
 
     shallow = ShallowNet(hiddenLayerSize=5)
     shallow.fit(x_train, y_train, learning_rate=0.01, 
