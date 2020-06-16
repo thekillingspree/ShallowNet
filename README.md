@@ -2,7 +2,7 @@
 
 A shallow neural network is a neural network with only 1 hidden layer.
 
-This project is tries to implement a Shallow Neural network using only numpy. 
+This project tries to implement a Shallow Neural network using only numpy. 
 
 This shallow neural network currently supports binary classification only. 
 
